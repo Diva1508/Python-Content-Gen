@@ -1,12 +1,32 @@
+from __future__ import annotations
+from pathlib import Path
+from datetime import date
+
 import streamlit as st
 
-from data_loader import load_all_data
+from data_loader import DataStore, DataLoadError
 from product_matcher import match_product
-from persona_selector import select_persona
-from content_planner import create_campaign_plan
-from content_generator import generate_content
+from calendar_generator import generate_calendar
+from utils import new_campaign_id
+
+BASE_DIR = Path(__file__).resolve().parent
+
+
+@st.cache_resource
+def get_store():
+    return DataStore(BASE_DIR)
+
 
 st.title("Beauty & Skincare Social Media Campaign Generator")
+
+try:
+    store = get_store()
+except DataLoadError as exc:
+    st.error(f"Data loading error: {exc}")
+    st.stop()
+
+available_platforms = store.platforms()["Platform"].tolist()
+default_platforms = [p for p in ("Instagram", "LinkedIn") if p in available_platforms]
 
 product_name = st.text_input("Product Name")
 
@@ -22,8 +42,8 @@ duration = st.selectbox(
 
 platforms = st.multiselect(
     "Platforms",
-    ["Instagram", "Facebook", "LinkedIn", "Pinterest", "X"],
-    default=["Instagram", "LinkedIn"]
+    available_platforms,
+    default=default_platforms
 )
 
 if st.button("Generate Campaign"):
@@ -34,24 +54,20 @@ if st.button("Generate Campaign"):
     elif not benefits:
         st.error("Please enter product benefits.")
 
+    elif not platforms:
+        st.error("Please select at least one platform.")
+
     else:
         with st.spinner("Generating your campaign..."):
-
-            data = load_all_data()
-
-            product = match_product(
-                product_name,
-                benefits,
-                data
-            )
-
-            campaign = create_campaign_plan(
-                product=product,
-                duration=duration,
-                platforms=platforms,
-                data=data
+            product = match_product(product_name, benefits, store)
+            campaign = generate_calendar(
+                product,
+                duration,
+                store,
+                platforms,
+                date.today(),
+                new_campaign_id(),
             )
 
         st.success("Campaign generated successfully!")
-
         st.dataframe(campaign)

@@ -1,0 +1,9 @@
+﻿Rule ID,Rule Type,Naming Structure,Purpose,Keyword Usage,Maximum Recommended Length,Example
+TITLE_001,Basic product,[Product Name] [Product Type],Product name + category,Product; category,50-70 characters,Vanilla Veil Balm Lip Balm
+TITLE_002,Product + shade,[Product Name] in [Shade],Product + shade,Shade,50-75 characters,Berry Velvet Bullet in Berry
+TITLE_003,Product + bucket,[Product Name] | [Content Bucket],Product + content purpose,Bucket,50-75 characters,Rose Pearl Serum | Ingredient Spotlight
+TITLE_004,Product + texture,[Product Name] | [Texture] [Finish],Product + texture + finish,Texture; finish,50-75 characters,Cloud Glaze | Cushiony Glassy Gloss
+TITLE_005,Routine,[Time of Day] Lip Routine | [Product Name],Routine + product,Routine; product,50-70 characters,Night Lip Routine | Cocoa Cloud Mask
+TITLE_006,Education,[Topic] | Lip Education,Topic + category,Topic,40-65 characters,Gloss vs Lip Oil | Lip Education
+TITLE_007,Flavour,[Product Name] | [Flavour],Product + flavour,Flavour,45-70 characters,Mango Melt Oil | Mango Nectar
+TITLE_008,Seasonal,[Season] Lip Edit | [Product Type],Season + category,Season; category,45-70 characters,Summer Lip Edit | Gloss and Tint

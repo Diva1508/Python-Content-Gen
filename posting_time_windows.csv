@@ -1,0 +1,211 @@
+﻿Time ID,Platform,Day,Time Window,Audience/Persona,Content Bucket,Content Type,Priority Score
+TIME_001,Instagram,Monday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_002,Instagram,Monday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_003,Instagram,Monday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_004,Instagram,Monday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_005,Instagram,Monday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_006,Instagram,Monday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_007,Instagram,Monday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_008,Instagram,Monday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_009,Instagram,Monday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_010,Instagram,Tuesday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_011,Instagram,Tuesday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_012,Instagram,Tuesday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_013,Instagram,Tuesday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_014,Instagram,Tuesday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_015,Instagram,Tuesday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_016,Instagram,Tuesday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_017,Instagram,Tuesday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_018,Instagram,Tuesday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_019,Instagram,Wednesday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_020,Instagram,Wednesday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_021,Instagram,Wednesday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_022,Instagram,Wednesday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_023,Instagram,Wednesday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_024,Instagram,Wednesday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_025,Instagram,Wednesday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_026,Instagram,Wednesday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_027,Instagram,Wednesday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_028,Instagram,Thursday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_029,Instagram,Thursday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_030,Instagram,Thursday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_031,Instagram,Thursday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_032,Instagram,Thursday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_033,Instagram,Thursday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_034,Instagram,Thursday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_035,Instagram,Thursday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_036,Instagram,Thursday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_037,Instagram,Friday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_038,Instagram,Friday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_039,Instagram,Friday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_040,Instagram,Friday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_041,Instagram,Friday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_042,Instagram,Friday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_043,Instagram,Friday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_044,Instagram,Friday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_045,Instagram,Friday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_046,Instagram,Saturday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_047,Instagram,Saturday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_048,Instagram,Saturday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_049,Instagram,Saturday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_050,Instagram,Saturday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_051,Instagram,Saturday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_052,Instagram,Saturday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_053,Instagram,Saturday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_054,Instagram,Saturday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_055,Instagram,Sunday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_056,Instagram,Sunday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_057,Instagram,Sunday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_058,Instagram,Sunday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_059,Instagram,Sunday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_060,Instagram,Sunday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_061,Instagram,Sunday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_062,Instagram,Sunday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_063,Instagram,Sunday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_064,LinkedIn,Monday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_065,LinkedIn,Monday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_066,LinkedIn,Monday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_067,LinkedIn,Monday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_068,LinkedIn,Tuesday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_069,LinkedIn,Tuesday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_070,LinkedIn,Tuesday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_071,LinkedIn,Tuesday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_072,LinkedIn,Wednesday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_073,LinkedIn,Wednesday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_074,LinkedIn,Wednesday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_075,LinkedIn,Wednesday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_076,LinkedIn,Thursday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_077,LinkedIn,Thursday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_078,LinkedIn,Thursday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_079,LinkedIn,Thursday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_080,LinkedIn,Friday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_081,LinkedIn,Friday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_082,LinkedIn,Friday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_083,LinkedIn,Friday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_084,LinkedIn,Saturday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_085,LinkedIn,Saturday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_086,LinkedIn,Saturday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_087,LinkedIn,Saturday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_088,LinkedIn,Sunday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_089,LinkedIn,Sunday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_090,LinkedIn,Sunday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_091,LinkedIn,Sunday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_092,Facebook,Monday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_093,Facebook,Monday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_094,Facebook,Monday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_095,Facebook,Monday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_096,Facebook,Monday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_097,Facebook,Monday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_098,Facebook,Monday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_099,Facebook,Monday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_100,Facebook,Tuesday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_101,Facebook,Tuesday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_102,Facebook,Tuesday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_103,Facebook,Tuesday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_104,Facebook,Tuesday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_105,Facebook,Tuesday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_106,Facebook,Tuesday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_107,Facebook,Tuesday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_108,Facebook,Wednesday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_109,Facebook,Wednesday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_110,Facebook,Wednesday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_111,Facebook,Wednesday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_112,Facebook,Wednesday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_113,Facebook,Wednesday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_114,Facebook,Wednesday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_115,Facebook,Wednesday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_116,Facebook,Thursday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_117,Facebook,Thursday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_118,Facebook,Thursday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_119,Facebook,Thursday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_120,Facebook,Thursday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_121,Facebook,Thursday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_122,Facebook,Thursday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_123,Facebook,Thursday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_124,Facebook,Friday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_125,Facebook,Friday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_126,Facebook,Friday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_127,Facebook,Friday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_128,Facebook,Friday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_129,Facebook,Friday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_130,Facebook,Friday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_131,Facebook,Friday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_132,Facebook,Saturday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_133,Facebook,Saturday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_134,Facebook,Saturday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_135,Facebook,Saturday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_136,Facebook,Saturday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_137,Facebook,Saturday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_138,Facebook,Saturday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_139,Facebook,Saturday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_140,Facebook,Sunday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_141,Facebook,Sunday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_142,Facebook,Sunday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_143,Facebook,Sunday,17:00-20:00,PERSONA_008,Promotion,product post,3
+TIME_144,Facebook,Sunday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_145,Facebook,Sunday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_146,Facebook,Sunday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_147,Facebook,Sunday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_148,Pinterest,Monday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_149,Pinterest,Monday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_150,Pinterest,Monday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_151,Pinterest,Monday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_152,Pinterest,Monday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_153,Pinterest,Monday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_154,Pinterest,Tuesday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_155,Pinterest,Tuesday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_156,Pinterest,Tuesday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_157,Pinterest,Tuesday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_158,Pinterest,Tuesday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_159,Pinterest,Tuesday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_160,Pinterest,Wednesday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_161,Pinterest,Wednesday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_162,Pinterest,Wednesday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_163,Pinterest,Wednesday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_164,Pinterest,Wednesday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_165,Pinterest,Wednesday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_166,Pinterest,Thursday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_167,Pinterest,Thursday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_168,Pinterest,Thursday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_169,Pinterest,Thursday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_170,Pinterest,Thursday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_171,Pinterest,Thursday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_172,Pinterest,Friday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_173,Pinterest,Friday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_174,Pinterest,Friday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_175,Pinterest,Friday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_176,Pinterest,Friday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_177,Pinterest,Friday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_178,Pinterest,Saturday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_179,Pinterest,Saturday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_180,Pinterest,Saturday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_181,Pinterest,Saturday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_182,Pinterest,Saturday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_183,Pinterest,Saturday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_184,Pinterest,Sunday,07:30-09:00,PERSONA_004,Lifestyle,routine photo,4
+TIME_185,Pinterest,Sunday,08:00-10:00,PERSONA_009,Education,carousel,4
+TIME_186,Pinterest,Sunday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_187,Pinterest,Sunday,20:00-22:00,PERSONA_006,Ingredient Spotlight,carousel,4
+TIME_188,Pinterest,Sunday,20:00-22:00,PERSONA_007,Lifestyle,editorial image,4
+TIME_189,Pinterest,Sunday,21:00-23:00,PERSONA_010,Lip Care Tips,night routine reel,4
+TIME_190,YouTube Shorts,Monday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_191,YouTube Shorts,Monday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_192,YouTube Shorts,Monday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_193,YouTube Shorts,Tuesday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_194,YouTube Shorts,Tuesday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_195,YouTube Shorts,Tuesday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_196,YouTube Shorts,Wednesday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_197,YouTube Shorts,Wednesday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_198,YouTube Shorts,Wednesday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_199,YouTube Shorts,Thursday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_200,YouTube Shorts,Thursday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_201,YouTube Shorts,Thursday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_202,YouTube Shorts,Friday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_203,YouTube Shorts,Friday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_204,YouTube Shorts,Friday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_205,YouTube Shorts,Saturday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_206,YouTube Shorts,Saturday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_207,YouTube Shorts,Saturday,19:00-22:00,PERSONA_005,Trend,short video,5
+TIME_208,YouTube Shorts,Sunday,12:00-14:00,PERSONA_002,Product Spotlight,carousel,4
+TIME_209,YouTube Shorts,Sunday,18:00-21:00,PERSONA_001,Entertainment,reel,5
+TIME_210,YouTube Shorts,Sunday,19:00-22:00,PERSONA_005,Trend,short video,5

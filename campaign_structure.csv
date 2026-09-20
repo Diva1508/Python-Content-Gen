@@ -1,0 +1,52 @@
+﻿Campaign Row ID,Campaign Duration,Day,Number of Posts,Platform Distribution,Content Bucket Distribution,Persona Distribution,Product Distribution,Rotation Rule,Format Note
+CAM_7day_01,7-day,1,1,Instagram,Education,PERSONA_001,PRODUCT_001,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_7day_02,7-day,2,1,Pinterest,Product Spotlight,PERSONA_002,PRODUCT_002,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_7day_03,7-day,3,1,Instagram,Lifestyle,PERSONA_003,PRODUCT_003,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_7day_04,7-day,4,1,YouTube Shorts,Flavour/Sensory,PERSONA_004,PRODUCT_004,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_7day_05,7-day,5,1,Facebook,Engagement,PERSONA_005,PRODUCT_005,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_7day_06,7-day,6,1,Instagram,Ingredient Spotlight,PERSONA_006,PRODUCT_006,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_7day_07,7-day,7,1,LinkedIn,Lip Care Tips,PERSONA_007,PRODUCT_007,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_01,14-day,1,1,Instagram,Education,PERSONA_001,PRODUCT_001,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_02,14-day,2,1,Pinterest,Product Spotlight,PERSONA_002,PRODUCT_002,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_03,14-day,3,1,Instagram,Lifestyle,PERSONA_003,PRODUCT_003,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_04,14-day,4,1,YouTube Shorts,Flavour/Sensory,PERSONA_004,PRODUCT_004,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_05,14-day,5,1,Facebook,Engagement,PERSONA_005,PRODUCT_005,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_06,14-day,6,1,Instagram,Ingredient Spotlight,PERSONA_006,PRODUCT_006,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_07,14-day,7,1,LinkedIn,Lip Care Tips,PERSONA_007,PRODUCT_007,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_08,14-day,8,1,Instagram,Social Proof,PERSONA_008,PRODUCT_008,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_09,14-day,9,1,Pinterest,Entertainment,PERSONA_009,PRODUCT_009,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_10,14-day,10,1,Instagram,Brand Story,PERSONA_010,PRODUCT_010,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_11,14-day,11,1,Facebook,Community,PERSONA_001,PRODUCT_011,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_12,14-day,12,1,Instagram,Promotion,PERSONA_002,PRODUCT_012,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_13,14-day,13,1,Instagram,Education,PERSONA_003,PRODUCT_013,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_14day_14,14-day,14,1,Pinterest,Product Spotlight,PERSONA_004,PRODUCT_014,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_01,30-day,1,1,Instagram,Education,PERSONA_001,PRODUCT_001,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_02,30-day,2,1,Pinterest,Product Spotlight,PERSONA_002,PRODUCT_002,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_03,30-day,3,1,Instagram,Lifestyle,PERSONA_003,PRODUCT_003,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_04,30-day,4,1,YouTube Shorts,Flavour/Sensory,PERSONA_004,PRODUCT_004,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_05,30-day,5,1,Facebook,Engagement,PERSONA_005,PRODUCT_005,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_06,30-day,6,1,Instagram,Ingredient Spotlight,PERSONA_006,PRODUCT_006,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_07,30-day,7,1,LinkedIn,Lip Care Tips,PERSONA_007,PRODUCT_007,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_08,30-day,8,1,Instagram,Social Proof,PERSONA_008,PRODUCT_008,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_09,30-day,9,1,Pinterest,Entertainment,PERSONA_009,PRODUCT_009,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_10,30-day,10,1,Instagram,Brand Story,PERSONA_010,PRODUCT_010,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_11,30-day,11,1,Facebook,Community,PERSONA_001,PRODUCT_011,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_12,30-day,12,1,Instagram,Promotion,PERSONA_002,PRODUCT_012,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_13,30-day,13,1,Instagram,Education,PERSONA_003,PRODUCT_013,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_14,30-day,14,1,Pinterest,Product Spotlight,PERSONA_004,PRODUCT_014,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_15,30-day,15,1,Instagram,Lifestyle,PERSONA_005,PRODUCT_015,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_16,30-day,16,1,YouTube Shorts,Flavour/Sensory,PERSONA_006,PRODUCT_016,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_17,30-day,17,1,Facebook,Engagement,PERSONA_007,PRODUCT_017,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_18,30-day,18,1,Instagram,Ingredient Spotlight,PERSONA_008,PRODUCT_018,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_19,30-day,19,1,LinkedIn,Lip Care Tips,PERSONA_009,PRODUCT_019,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_20,30-day,20,1,Instagram,Social Proof,PERSONA_010,PRODUCT_020,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_21,30-day,21,1,Pinterest,Entertainment,PERSONA_001,PRODUCT_021,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_22,30-day,22,1,Instagram,Brand Story,PERSONA_002,PRODUCT_022,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_23,30-day,23,1,Facebook,Community,PERSONA_003,PRODUCT_023,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_24,30-day,24,1,Instagram,Promotion,PERSONA_004,PRODUCT_024,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_25,30-day,25,1,Instagram,Education,PERSONA_005,PRODUCT_025,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_26,30-day,26,1,Pinterest,Product Spotlight,PERSONA_006,PRODUCT_026,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_27,30-day,27,1,Instagram,Lifestyle,PERSONA_007,PRODUCT_027,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_28,30-day,28,1,YouTube Shorts,Flavour/Sensory,PERSONA_008,PRODUCT_028,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_29,30-day,29,1,Facebook,Engagement,PERSONA_009,PRODUCT_029,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin
+CAM_30day_30,30-day,30,1,Instagram,Ingredient Spotlight,PERSONA_010,PRODUCT_030,Rotate bucket and persona; avoid same bucket on consecutive days,Primary post; optional story/supporting pin

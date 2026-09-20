@@ -1,0 +1,63 @@
+﻿Tag ID,Category,Tag/Keyword,Plain Keyword,Tier,Usage Rule
+TAG_001,Lip Care,#lipcare,lipcare,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_002,Lip Care,#liproutine,liproutine,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_003,Lip Care,#lips,lips,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_004,Lip Care,#lipbalm,lipbalm,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_005,Lip Care,#liptreatment,liptreatment,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_006,Lip Care,#lipmask,lipmask,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_007,Lip Makeup,#lipmakeup,lipmakeup,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_008,Lip Makeup,#lipcolour,lipcolour,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_009,Lip Makeup,#liplook,liplook,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_010,Lip Makeup,#lipcombo,lipcombo,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_011,Lip Makeup,#makeuproutine,makeuproutine,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_012,Lip Makeup,#beautyroutine,beautyroutine,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_013,Lip Gloss,#lipgloss,lipgloss,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_014,Lip Gloss,#glossylips,glossylips,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_015,Lip Gloss,#glosslover,glosslover,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_016,Lip Gloss,#lipshine,lipshine,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_017,Lip Gloss,#glossroutine,glossroutine,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_018,Lip Oil,#lipoil,lipoil,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_019,Lip Oil,#lipglow,lipglow,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_020,Lip Oil,#lipoilroutine,lipoilroutine,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_021,Lip Oil,#glossyoil,glossyoil,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_022,Lip Oil,#lipcareoil,lipcareoil,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_023,Lipstick,#lipstick,lipstick,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_024,Lipstick,#lipsticklover,lipsticklover,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_025,Lipstick,#lipsticklook,lipsticklook,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_026,Lipstick,#satinlip,satinlip,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_027,Lipstick,#lipcolour,lipcolour,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_028,Lip Mask,#lipmask,lipmask,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_029,Lip Mask,#overnightroutine,overnightroutine,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_030,Lip Mask,#nightritual,nightritual,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_031,Lip Mask,#lipbutter,lipbutter,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_032,Lip Mask,#selfcareroutine,selfcareroutine,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_033,Ingredients,#beautyingredients,beautyingredients,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_034,Ingredients,#ingredientspotlight,ingredientspotlight,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_035,Ingredients,#formulastory,formulastory,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_036,Ingredients,#cosmeticingredients,cosmeticingredients,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_037,Ingredients,#ingredienteducation,ingredienteducation,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_038,Beauty,#beauty,beauty,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_039,Beauty,#beautyroutine,beautyroutine,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_040,Beauty,#beautyproducts,beautyproducts,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_041,Beauty,#makeuplover,makeuplover,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_042,Beauty,#beautycontent,beautycontent,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_043,Self-care,#selfcare,selfcare,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_044,Self-care,#selfcareritual,selfcareritual,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_045,Self-care,#nighttimeroutine,nighttimeroutine,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_046,Self-care,#littleluxuries,littleluxuries,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_047,Self-care,#slowbeauty,slowbeauty,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_048,Lifestyle,#everydaybeauty,everydaybeauty,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_049,Lifestyle,#deskbeauty,deskbeauty,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_050,Lifestyle,#morningroutine,morningroutine,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_051,Lifestyle,#weekendroutine,weekendroutine,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_052,Lifestyle,#beautyritual,beautyritual,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_053,Audience,#collegestyle,collegestyle,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_054,Audience,#workingwomen,workingwomen,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_055,Audience,#beautyenthusiast,beautyenthusiast,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_056,Audience,#minimalbeauty,minimalbeauty,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_057,Audience,#beautycollector,beautycollector,Niche,Use with 1-2 other tiers; keep context relevant
+TAG_058,Product discovery,#newbeauty,newbeauty,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_059,Product discovery,#beautydiscovery,beautydiscovery,Broad,Use with 1-2 other tiers; keep context relevant
+TAG_060,Product discovery,#shadestory,shadestory,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_061,Product discovery,#texturestory,texturestory,Medium,Use with 1-2 other tiers; keep context relevant
+TAG_062,Product discovery,#lipedit,lipedit,Niche,Use with 1-2 other tiers; keep context relevant
